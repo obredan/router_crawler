@@ -1,6 +1,4 @@
 # router crawler
-
-August 18, 2017 2:53 PM
 - - -
 A router tools collection includes information crawler, automatic DNS setting and firmware upgrade.
 
