@@ -1,6 +1,6 @@
 # router crawler
 - - -
-A router tools collection includes information crawler, automatic DNS setting and firmware upgrade.
+A router crawler collection includes information crawler, automatic DNS setting and firmware upgrade.
 
 #### Working with: 
 - TP-Link
